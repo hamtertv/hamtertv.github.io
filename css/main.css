@@ -6,6 +6,6 @@ body {
     color: #ffffff;
 }
 
-.shows {
-    display: flex;
+.category {
+    font-size: 1em;
 }
